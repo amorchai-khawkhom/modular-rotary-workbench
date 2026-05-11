@@ -108,8 +108,6 @@ The rotary mechanism and structural components were designed in CAD before physi
 
 ### Assembly Components
 
-(รูป assembly)
-
 ## Author
 Amorchai Khawkhom (อมรชัย ขาวขำ)  
 Electronics & Robotics Engineer  

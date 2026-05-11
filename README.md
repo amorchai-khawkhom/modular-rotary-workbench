@@ -112,3 +112,9 @@ The rotary mechanism and structural components were designed in CAD before physi
 Amorchai Khawkhom (อมรชัย ขาวขำ)  
 Electronics & Robotics Engineer  
 Embedded Systems • Robotics • CAD Design • Prototyping
+
+## Video Demonstrations
+
+Additional robotics and embedded system demonstrations are available on the YouTube channel:
+
+https://www.youtube.com/@gupaditkman1335
